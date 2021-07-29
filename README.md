@@ -1,2 +1,2 @@
 # LinuxOS
-Adding My PPT and a Premium PDF for you to learn more about Linux
+Adding My PPT and a PDF with Cheatsheet for you to learn more about Linux
